@@ -17,3 +17,6 @@ To train the model and reproduce the results, please run the main script from yo
 
 ```bash
 python train_model.py
+
+
+If you encounter any issues, bugs, or have questions regarding the code or the dataset, please feel free to contact the authors. You can open an "Issue" in this GitHub repository or reach out directly via email.

@@ -188,14 +188,14 @@ if __name__ == '__main__':
 
         # 数据路径
         # drgucombdb
-        "cellfile": "data/drugcombdb_example/dbcellfeature.csv",
-        "drug_smiles_file": "data/drugcombdb_example/dbdrugsmiles.csv",
-        "datafile": "data/drugcombdb_example/drugcombdb.csv",
+        "cellfile": "data/drugcombdb/dbcellfeature.csv",
+        "drug_smiles_file": "data/drugcombdb/dbdrugsmiles.csv",
+        "datafile": "data/drugcombdb/drugcombdb.csv",
         "dataset_name": "drugcombdb",
         # merck
-        # "cellfile": "data/merkck_example/cell_features.csv",
-        # "drug_smiles_file": "data/merkck_example/smiles.csv",
-        # "datafile": "data/merkck_example/merck.csv",
+        # "cellfile": "data/merck/cell_features.csv",
+        # "drug_smiles_file": "data/merck/smiles.csv",
+        # "datafile": "data/merck/merck.csv",
         # "dataset_name": "merck",
 
 

@@ -18,5 +18,3 @@ To train the model and reproduce the results, please run the main script from yo
 
 ```bash
 python train_model.py
-
-
